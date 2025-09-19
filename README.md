@@ -15,3 +15,10 @@ I have certficiates in the following:
 And last but not least Studying AZ-900, Linux and Splunk
 
 I created this portfolio to showcase my future hands-on projects, labs, and write-ups as I try to further my career in the cybersecurity field.
+
+📫 Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/harry-roldan/
+
+- Email: harry.roldan@gmail.com
+  
