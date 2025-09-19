@@ -1,1 +1,7 @@
 Hello Everyone!  Welcome to my github!  My name is Harry, and yes I know I am late to this github party, but better late than never!
+I'm trying to break into the world of IT, the Cybersecurity Sector, and since the competition is fierce out there I need to show what I am made of.
+
+
+I love to learn new things, and I want to break into cybersecurity but so far I'm on the outside looking in, but that is subject to change.
+I have certficiates in the following:
+
