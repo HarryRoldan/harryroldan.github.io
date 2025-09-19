@@ -13,3 +13,5 @@ I have certficiates in the following:
 📜 Certification of Cybersecurity from Minnesota University
 
 And last but not least Studying AZ-900, Linux and Splunk
+
+I created this portfolio to showcase my future hands-on projects, labs, and write-ups as I try to further my career in the cybersecurity field.
