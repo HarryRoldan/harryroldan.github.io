@@ -7,6 +7,8 @@ I have certficiates in the following:
 
 
 ✅ CompTIA Security+
+
 ✅ CompTIA Network+
+
 📜 Certification of Cybersecurity from Minnesota University
 #And last but not least Studying AZ-900, Linux and Splunk
