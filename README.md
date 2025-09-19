@@ -4,7 +4,7 @@ I'm trying to break into the world of IT, the Cybersecurity Sector, and since th
 
 I love to learn new things, and I want to break into cybersecurity but so far I'm on the outside looking in, but that is subject to change.
 I have certficiates in the following:
-✅ CompTIA Security+
-✅ CompTIA Network+
-📜 Certification of Cybersecurity from Minnesota University
-And last but not least Studying AZ-900, Linux and Splunk
+#✅ CompTIA Security+
+#✅ CompTIA Network+
+#📜 Certification of Cybersecurity from Minnesota University
+#And last but not least Studying AZ-900, Linux and Splunk
