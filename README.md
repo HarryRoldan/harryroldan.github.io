@@ -45,4 +45,6 @@ below you will see the once I used the command <id> it showed  the
 <uid> which is the user ID 
 <gid> Your primary group ID
 <groups> All the groups that a user is a member of.
+
+![Lab Screenshot]{images/3.png)
   
