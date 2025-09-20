@@ -40,4 +40,9 @@ These two commands were a refresher for me.  As you can see from the picture bel
 <id> I used to see who the groups that I belonged to.  It was very basic, but it is something that is very important.
 
 ![Lab Screenshot](images/2.png)
+
+below you will see the once I used the command <id> it showed  the 
+<uid> which is the user ID 
+<gid> Your primary group ID
+<groups> All the groups that a user is a member of.
   
