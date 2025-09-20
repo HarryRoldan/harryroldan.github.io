@@ -21,4 +21,9 @@ I created this portfolio to showcase my future hands-on projects, labs, and writ
 - LinkedIn: https://www.linkedin.com/in/harry-roldan/
 
 - Email: harry.roldan@gmail.com
+
+
+## 🐧 Linux Basics First Linux Lab (LabEx)
+
+Starting a refresher on Linux.
   
