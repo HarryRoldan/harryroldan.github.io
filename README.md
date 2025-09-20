@@ -25,5 +25,10 @@ I created this portfolio to showcase my future hands-on projects, labs, and writ
 
 ## 🐧 Linux Basics First Linux Lab (LabEx)
 
-Starting a refresher on Linux.
+### Objective
+Starting my Linux refresher journey.
+Learned: echo, id, uid, gid, groups, apt, sudo, install
+
+### What I did?
+I started using Labex to start this journey, and so far the hands on labs have been useful.
   
