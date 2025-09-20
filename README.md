@@ -31,4 +31,6 @@ Learned: echo, id, uid, gid, groups, apt, sudo, install
 
 ### What I did?
 I started using Labex to start this journey, and so far the hands on labs have been useful.
+
+![Lab Screenshot](images/1.png)
   
