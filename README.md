@@ -82,5 +82,7 @@ directories on a system.
 And last not least ***absoulte path***  This is the exact path that one will take to get to a directory.  In the image below I want to get to the project folder.  I can easily ***cd*** the project folder which would take several steps, or I can use the
 absolute path, which is this in the below example:  ***cd /home/labex/project*** it is a bit longer but it will get you directly there!
 
+![Lab Screenshot](images/2.5.png)
+
 
   
