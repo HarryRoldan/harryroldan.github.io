@@ -64,13 +64,14 @@ I didn't know about and it was the ~ (tilde symbol).  This is a quick travel bac
 When I put the pwd command it shows the path of /home/labex/prject
 BUT when I use command echo ~ it throws me to the home directory directly.
 
-The next command is ####**ls(list)**####.  This command is one of the most common commands and I remember using this all the time while at my bootcamp a few years ago.  This command list the contents of the 
+The next command is **ls(list)**.  This command is one of the most common commands and I remember using this all the time while at my bootcamp a few years ago.  This command list the contents of the 
 directory that user is currently in.  As you can see below I used the 'ls' command in the project folder but that folder was empty, but when I used the **'ls ~'** command it shows the home directory and all
 the directories aka folders within the my home directory. 
 
 ![Lab Screenshot](images/2.2.png)
 
-After reaquanting myself with the ***ls(list)*** command, I moved on to the ***cd(change directory)*** command. 
+After reaquanting myself with the ***ls(list)*** command, I moved on to the ***cd(change directory)*** command. After going into the home directory, I would like to naviage to the project diretory within it.  But how do you we do that?
+Oh, let me show you!  the command would be ***cd project*** and that will throw you into the project folder.
 
 
   
