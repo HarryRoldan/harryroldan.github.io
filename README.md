@@ -58,4 +58,6 @@ services.  And numbers 1000-5000 are for regular users on the system.
 In my second Lab I am refreshing with more basic commands.  I remembered all of them expcet one that I didn't learn.  So let us get started!
 the first command is pwd (print working directory).  What this does is it shows the users current location within the system.  BUT there is one command that
 I didn't know about and it was the ~ (tilde symbol).  This is a quick travel back to the users home directory, which I found out to be very neat!  Take a look at the image below!
+
+![Lab Screenshot](iamges/2.1.png)
   
