@@ -59,8 +59,14 @@ In my second Lab I am refreshing with more basic commands.  I remembered all of 
 the first command is pwd (print working directory).  What this does is it shows the users current location within the system.  BUT there is one command that
 I didn't know about and it was the ~ (tilde symbol).  This is a quick travel back to the users home directory, which I found out to be very neat!  Take a look at the image below!
 
-![Lab Screenshot](iamges/2.1.png)
+![Lab Screenshot](images/2.1.png)
 
 When I put the pwd command it shows the path of /home/labex/prject
 BUT when I use command echo ~ it throws me to the home directory directly.
+
+The next command is ls(list).  This command is one of the most common commands and I remember using this all the time while at my bootcamp a few years ago.  This command list the contents of the 
+directory that user is currently in.  As you can see below I used the 'ls' command in the project folder but that folder was empty, but when I used the 'ls ~' command it shows the home directory and all
+the directories aka folders within the my home directory. 
+
+
   
