@@ -73,5 +73,14 @@ the directories aka folders within the my home directory.
 After reaquanting myself with the ***ls(list)*** command, I moved on to the ***cd(change directory)*** command. After going into the home directory, I would like to naviage to the project diretory within it.  But how do you we do that?
 Oh, let me show you!  the command would be ***cd project*** and that will throw you into the project folder.
 
+![Lab Screenshot](images/2.4.png)
+
+A few more things that I refreshed on were the ***.. and the ../..*** and what an absoulte path is.  
+the ***..*** is to go up a level or go up a directory to the parent directory.  the ***../..*** means the user can go up two levels.  This is saves time if you are going down a rabbit hole of information or
+directories on a system.
+
+And last not least ***absoulte path***  This is the exact path that one will take to get to a directory.  In the image below I want to get to the project folder.  I can easily ***cd*** the project folder which would take several steps, or I can use the
+absolute path, which is this in the below example:  ***cd /home/labex/project*** it is a bit longer but it will get you directly there!
+
 
   
