@@ -52,4 +52,10 @@ What good is this information if you don't know what it means?  So, I highlighte
 And you can see the number 5000 after each portion.  So what does the number 5000 indicate or mean?  Well the number '0' indicates the user is the
 root user, who has super privileges on the system and can do almost anything.  In most Linux systems numbers 1-999 are reserved for system accounts and 
 services.  And numbers 1000-5000 are for regular users on the system. 
+
+## 🐧 Second Linux Labs pwd, ls, and cd LabEx
+
+In my second Lab I am refreshing with more basic commands.  I remembered all of them expcet one that I didn't learn.  So let us get started!
+the first command is pwd (print working directory).  What this does is it shows the users current location within the system.  BUT there is one command that
+I didn't know about and it was the ~ (tilde symbol).  This is a quick travel back to the users home directory, which I found out to be very neat!  Take a look at the image below!
   
