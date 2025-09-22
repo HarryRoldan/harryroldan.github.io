@@ -47,4 +47,9 @@ below you will see the once I used the command <id> it showed  the
 <groups> All the groups that a user is a member of.
 
 ![Lab Screenshot](images/3.png)
+
+What good is this information if you don't know what it means?  So, I highlighted the uid, gid and groups area of the above image.  
+And you can see the number 5000 after each portion.  So what does the number 5000 indicate or mean?  Well the number '0' indicates the user is the
+root user, who has super privileges on the system and can do almost anything.  In most Linux systems numbers 1-999 are reserved for system accounts and 
+services.  And numbers 1000-5000 are for regular users on the system. 
   
