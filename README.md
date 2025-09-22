@@ -37,7 +37,7 @@ I started using Labex to start this journey, and so far the hands on labs have b
 ## Learning id and echo
 
 These two commands were a refresher for me.  As you can see from the picture below I used echo to repeat my input.  
-<id> I used to see who the groups that I belonged to.  It was very basic, but it is something that is very important.
+***id*** I used to see who the groups that I belonged to.  It was very basic, but it is something that is very important.
 
 ![Lab Screenshot](images/2.png)
 
