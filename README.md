@@ -60,4 +60,7 @@ the first command is pwd (print working directory).  What this does is it shows 
 I didn't know about and it was the ~ (tilde symbol).  This is a quick travel back to the users home directory, which I found out to be very neat!  Take a look at the image below!
 
 ![Lab Screenshot](iamges/2.1.png)
+
+When I put the pwd command it shows the path of /home/labex/prject
+BUT when I use command echo ~ it throws me to the home directory directly.
   
