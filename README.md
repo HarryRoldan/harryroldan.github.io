@@ -96,6 +96,8 @@ A few things to look at as well is the ***> and >>*** symbols while creating dir
 
 Now I'm going to make a directory using the ***mkdir*** command.  In the example beolow I am creating a directory with the command and syntax ***mkdir testdir*** after creating something I was taught to always check your work, which is very good advice.  So in the example below it shows just that. 
 
+![Lab Screenshot](images/3.2.png)
+
 
 
 
