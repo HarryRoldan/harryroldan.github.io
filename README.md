@@ -88,9 +88,11 @@ absolute path, which is this in the below example:  ***cd /home/labex/project***
 
 In today's lesson I'm going to refresh my knowledge on a few commands.  The ***touch, cp and the mkdir*** commands!
 
-So let's start with the ***touch*** command.  No we aren't touching anything but creating something.  The touch command is used to create a file that has nothing in it.
+So let's start with the ***touch*** command.  No we aren't touching anything but creating something.  The touch command is used to create a file that has nothing in it.  What I forogt was the ***.*** is a way to create a hidden file!  I'm going to use the echo command and use this syntax ***echo "Hello, Linux" > file.txt*** and when a user uses the command ***ls*** it will not show up on the listing of files and directories!  Didn't really know that and I found that so cool to learn. 
 
 ![Lab Screenshot](images/3.0.png)
+
+A few things to look at as well is the ***> and >>*** symbols while creating directories and files.  So let me get to it!  The **>** when in use creates and overwrites whatever file or directory you the user are writing to.  **BUT** the **>>** adds more content to whatever directory or file that you are writing to.  A user must be careful while using these outputs! I would say thank you for coming to my Linux Talks, but I have more!
 
 
   
