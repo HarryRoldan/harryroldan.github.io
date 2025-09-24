@@ -98,6 +98,9 @@ Now I'm going to make a directory using the ***mkdir*** command.  In the example
 
 ![Lab Screenshot](images/3.2.png)
 
+After I created the directory and used the ***ls*** command I did a little tinkering because I like having my listings vertically not horizontally, after researching I found this command ***ls -1*** that is the number one not the letter l, to list thing vertically.  Like so...
+
+![Lab Screenshot](images/3.3.png)
 
 
 
