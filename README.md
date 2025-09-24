@@ -90,5 +90,7 @@ In today's lesson I'm going to refresh my knowledge on a few commands.  The ***t
 
 So let's start with the ***touch*** command.  No we aren't touching anything but creating something.  The touch command is used to create a file that has nothing in it.
 
+![Lab Screenshot](images/3.0.png)
+
 
   
