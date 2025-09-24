@@ -94,5 +94,9 @@ So let's start with the ***touch*** command.  No we aren't touching anything but
 
 A few things to look at as well is the ***> and >>*** symbols while creating directories and files.  So let me get to it!  The **>** when in use creates and overwrites whatever file or directory you the user are writing to.  **BUT** the **>>** adds more content to whatever directory or file that you are writing to.  A user must be careful while using these outputs! I would say thank you for coming to my Linux Talks, but I have more!
 
+Now I'm going to make a directory using the ***mkdir*** command.  In the example beolow I am creating a directory with the command and syntax ***mkdir testdir*** after creating something I was taught to always check your work, which is very good advice.  So in the example below it shows just that. 
+
+
+
 
   
