@@ -84,5 +84,11 @@ absolute path, which is this in the below example:  ***cd /home/labex/project***
 
 ![Lab Screenshot](images/2.5.png)
 
+## 🐧 Third Linux Lab Let's create, copy and make files shall we
+
+In today's lesson I'm going to refresh my knowledge on a few commands.  The ***touch, cp and the mkdir*** commands!
+
+So let's start with the ***touch*** command.  No we aren't touching anything but creating something.  The touch command is used to create a file that has nothing in it.
+
 
   
