@@ -102,6 +102,9 @@ After I created the directory and used the ***ls*** command I did a little tinke
 
 ![Lab Screenshot](images/3.3.png)
 
+And If the user types out the command with ***ls -1*** followed by the file or directory it will show detailed information about the file, like the permissions per file like ***red, write, and execute***
+
+![Lab Screenshot](images/3.5)
 
 
   
