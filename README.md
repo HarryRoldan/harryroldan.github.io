@@ -22,7 +22,7 @@ I created this portfolio to showcase my future hands-on projects, labs, and writ
 
 - Email: harry.roldan@gmail.com
 
-- [My New Linux video Labs](Linux.md)
+- [▶️ My New Linux video Labs](https://youtu.be/CmdONew5Utw)
 
 
 ## 🐧 Linux Basics First Linux Lab (LabEx)
