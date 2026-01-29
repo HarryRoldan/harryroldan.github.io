@@ -24,7 +24,7 @@ I created this portfolio to showcase my future hands-on projects, labs, and writ
 
 - [▶️ My New Linux video Labs](https://youtu.be/CmdONew5Utw)
 
-- [▶️ Linux commands: touch, mkdir, cp, and mv, with a touch(no pun intended) of '>' symbol with what -r](https://youtu.be/PD2AaqqCs5A)
+- [▶️ Let's Linux: Episode 2 - cd, pwd, touch, mkdir, ls](https://youtu.be/PD2AaqqCs5A)
 
 ## 🐧 Linux Basics First Linux Lab (LabEx)
 
