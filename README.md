@@ -24,7 +24,7 @@ I created this portfolio to showcase my future hands-on projects, labs, and writ
 
 - [▶️ My New Linux video Labs](https://youtu.be/CmdONew5Utw)
 
-- [▶️ Let's Linux: Episode 2 - cd, pwd, touch, mkdir, ls](https://youtu.be/PD2AaqqCs5A)
+- [▶️ Let's Linux: Episode 2 - cd, pwd, touch, mkdir, ls](https://youtu.be/OK6wVz8WJnA)
 
 ## 🐧 Linux Basics First Linux Lab (LabEx)
 
